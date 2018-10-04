@@ -5,7 +5,6 @@ global with sharing class AccountManager {
     global static Account getAccount() {
         Vehicle__c vehicle = new Vehicle__c();
         vehicle.VIN_Number__c = 'testVinNumber';
-        vehicle.DistanceTravelled__c= '100';
         RestRequest req = RestContext.request;
         String accId = req.requestURI.substringBetween('Accounts/', '/contacts');
         Account acc = [
