@@ -347,6 +347,17 @@
         <type>Text</type>
         <unique>false</unique>
     </fields>
+    <fields>
+        <fullName>DistanceTravelled__c</fullName>
+        <externalId>false</externalId>
+        <label>DistanceTravelled</label>
+        <length>255</length>
+        <required>false</required>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <label>Vehicle</label>
     <listViews>
         <fullName>All</fullName>
