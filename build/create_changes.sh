@@ -1,4 +1,6 @@
 #!/bin/bash
+#Testcomment
+
 
 cd ..
 echo 'Starting file diff'
