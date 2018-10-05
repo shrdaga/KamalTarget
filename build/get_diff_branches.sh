@@ -1,4 +1,6 @@
 #!/bin/bash
+
+#TestComment 
 export LESSCHARSET=utf-8
 
 targetBranch=$2
