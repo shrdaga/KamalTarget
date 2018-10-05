@@ -442,7 +442,7 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>true</editable>
+        <editable>false</editable>
         <field>Campaign.HierarchyExpectedRevenue</field>
         <readable>true</readable>
     </fieldPermissions>
