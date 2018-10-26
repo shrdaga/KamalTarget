@@ -182,6 +182,15 @@
         <trackTrending>false</trackTrending>
         <type>Checkbox</type>
     </fields>
+        <fields>
+        <fullName>Generator2__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Generator2</label>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
     <fields>
         <fullName>Levelers__c</fullName>
         <externalId>false</externalId>
