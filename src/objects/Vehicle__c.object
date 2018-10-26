@@ -316,6 +316,15 @@
         <trackTrending>false</trackTrending>
         <type>Checkbox</type>
     </fields>
+        <fields>
+        <fullName>Shower2__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>Shower2</label>
+        <trackHistory>false</trackHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
     <fields>
         <fullName>Type__c</fullName>
         <externalId>false</externalId>
